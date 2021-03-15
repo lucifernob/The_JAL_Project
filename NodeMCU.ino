@@ -19,8 +19,8 @@ void ICACHE_RAM_ATTR pulseCounter()
   pulseCount++;
 }
 void flowMeter(void);
-const char* ssid = "i11";
-const char* password = "Anubhav100";
+const char* ssid = "Test";
+const char* password = "Test";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
