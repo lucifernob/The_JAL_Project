@@ -9,3 +9,5 @@ Water Conservation and Monitoring System would enable a society or cluster of ho
 The project includes using Arduino and Node MCU to bring this project to life.
 The main tank would be connected to a sub-tank of the house, which is connected by a flow meter. The constant usage of water will be recorded over the cloud for which we prefer "AWS", and thus this data can be used for multiple purposes using various technologies like data science so we can know how much amount of water is used at a particular time. The representation and depiction of the model would be maverick.
 This project aims and has the potential to be the final block in this long journey of  "conserve and preserve water" jigsaw puzzle.
+
+To know more about this project visit: https://www.hackster.io/lucifernob/the-jal-project-using-arduino-node-mcu-iot-aws-74ee49
