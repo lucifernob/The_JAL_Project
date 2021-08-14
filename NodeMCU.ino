@@ -25,7 +25,7 @@ const char* password = "Test";
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
 
-const char* AWS_endpoint = "a2qavtfdfdj1wh-ats.iot.us-east-2.amazonaws.com"; //MQTT broker ip
+const char* AWS_endpoint = ""; //MQTT broker ip
 
 void callback(char* topic, byte* payload, unsigned int length) {
 Serial.print("Message arrived [");
